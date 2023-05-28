@@ -96,9 +96,7 @@ https://blogs.sch.gr/niplitis/2023/05/28/symmetochi-ston-5o-panellinio-diagonism
 
 και μέσω της αποστολής μηνύματος στους γονείς.
 
-Το αποθετήριο του έργου μας βρίσκεται στο:
 
-https://github.com/1niplitis-inaction/the_Greens
 
 
 
