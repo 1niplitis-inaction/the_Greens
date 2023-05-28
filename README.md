@@ -85,7 +85,6 @@
 
 Και τώρα είμαστε έτοιμοι να σας δείξουμε πώς λειτουργεί η “έξυπνη” πόλη μας!
 
-<iframe width="900" height="506" src="https://www.youtube.com/embed/XaTizTiA3tQ" title="the_Greens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 https://youtu.be/XaTizTiA3tQ
 
